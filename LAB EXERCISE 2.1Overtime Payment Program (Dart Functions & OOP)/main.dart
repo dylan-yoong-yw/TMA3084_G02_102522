@@ -10,5 +10,5 @@ void main(){
     extraPayPerHr = 20;
   }
   double total = william.salary + (william.overtimeHr * extraPayPerHr);
-  print("Total Salary = \$$total USD');
+  print('Total Salary = \$$total USD');
   }
